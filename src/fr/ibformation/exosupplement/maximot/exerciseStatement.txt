@@ -1,0 +1,13 @@
+Exercice Défi Maximot: 
+
+Réaliser un jeu Maximot qui permet :
+•D’aller chercher un mot aléatoirement dans un dictionnaire 
+•Mélanger les lettres du mot
+•Afficher le mot mélangé au joueur
+•Donner un indice au joueur en affichant la première lettre du mot à trouver
+•Demander au joueur de trouver le mot d’origine
+
+•Vérifier que le mot donné par le joueur est correct en vérifiant si les lettres sont bien présentes
+•Vérifier que le mot donné par le joueur est bien dans le dictionnaire 
+•Afficher les messages en cas de victoire, de mauvaise lettre, si le mot n’est pas dans le dictionnaire
+
